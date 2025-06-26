@@ -1,0 +1,11 @@
+# Gitignore for Kitsune AI V3
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+saves/
+*.pkl
+.DS_Store
+.vscode/
+*.log
